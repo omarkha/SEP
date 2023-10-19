@@ -1,0 +1,30 @@
+.navbar {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  height: 89px;
+  justify-content: space-between;
+  padding: 0 89px;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  align-items: center;
+  background-color: #3876bf;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+}
+
+.logo img {
+  width: 233px;
+}
+
+.navbar ul li {
+  color: #192655;
+  font-weight: bold;
+  font-size: 21px;
+  font-family: "Share Tech", sans-serif;
+}
