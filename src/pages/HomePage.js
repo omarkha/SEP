@@ -168,6 +168,34 @@ const HomePage = () => {
         <div className="portfolio" id="portfolio" name="portfolio">
           <h1>This Is My Portfolio</h1>
           <div className="piece">
+            <h3>IQBall - Android App for Soccer Statistics</h3>
+            <div className="content">
+              <a
+                href="https://youtu.be/BB2GougJHgI?si=3q7vKng52sQ2B06u"
+                target="_blank"
+              >
+                {" "}
+                <img src={iqball} alt="art bridge website portfolio piece" />
+              </a>
+              <p>
+                I made this android app with Python Kivy. It's designed to
+                record soccer match data such as passes, shots, and tackles in
+                an easy way for the user.
+                <div className="links">
+                  <a
+                    href="https://youtu.be/BB2GougJHgI?si=3q7vKng52sQ2B06u"
+                    target="_blank"
+                  >
+                    Demo
+                  </a>
+                  <a href="https://github.com/omarkha/arqa" target="_blank">
+                    GitHub
+                  </a>
+                </div>
+              </p>
+            </div>
+          </div>
+          <div className="piece">
             <h3>The Art Bridge - Ecommerce Website for Art</h3>
             <div className="content">
               <a
@@ -374,22 +402,6 @@ const HomePage = () => {
                     GitHub
                   </a>
                 </div>
-              </p>
-            </div>
-          </div>
-          <div className="piece">
-            <h3>IQBall - Android App for Soccer Statistics</h3>
-            <div className="content">
-              <a href="#" target="_blank">
-                {" "}
-                <img src={iqball} alt="art bridge website portfolio piece" />
-              </a>
-              <p>
-                I made this android app with Python Kivy. It's designed to
-                record soccer match data such as passes, shots, and tackles in
-                an easy way for the user. I didn't upload the code to Github but
-                it's on my MacBook. The laptop's keyboard doesn't function so
-                I'm looking to buy a keyboard atm and upload asap.
               </p>
             </div>
           </div>
