@@ -64,7 +64,7 @@ const HomePage = () => {
         ></div>
         <div
           className="tech"
-          style={{ backgroundImage: `url(${react})`, width: "100px" }}
+          style={{ backgroundImage: `url(${react})` }}
         ></div>
         <div
           className="tech"
@@ -187,7 +187,7 @@ const HomePage = () => {
                     href="https://artbridgetobaghdad.onrender.com/"
                     target="_blank"
                   >
-                    Visit Website
+                    Website
                   </a>
                   <a
                     href="https://github.com/omarkha/ArtBridgeToBaghdad"
@@ -216,7 +216,7 @@ const HomePage = () => {
                 Redux. PS: it's a bit slow to load.
                 <div className="links">
                   <a href="https://iraqiexpert.onrender.com/" target="_blank">
-                    Visit Website
+                    Website
                   </a>
                   <a href="https://github.com/omarkha/IQLink" target="_blank">
                     GitHub
@@ -238,7 +238,7 @@ const HomePage = () => {
                 I called GreenStar. PS: it's a bit slow to load.
                 <div className="links">
                   <a href="https://soccerleagues.onrender.com/" target="_blank">
-                    Visit Website
+                    Website
                   </a>
                   <a
                     href="https://github.com/omarkha/NYSoccerLeague"
@@ -265,7 +265,7 @@ const HomePage = () => {
                 layout of facebook.
                 <div className="links">
                   <a href="https://omarfacebook.netlify.app/" target="_blank">
-                    Visit Website
+                    Website
                   </a>
                   <a
                     href="https://github.com/omarkha/MyFacebookProfileReplica"
@@ -292,7 +292,7 @@ const HomePage = () => {
                 Bubblefield is a purely HTML, JavaScript, and CSS game.
                 <div className="links">
                   <a href="https://bubblefield.netlify.app/" target="_blank">
-                    Visit Website
+                    Website
                   </a>
                   <a
                     href="https://github.com/omarkha/2D-Cube-Field"
@@ -316,7 +316,7 @@ const HomePage = () => {
                 She has a cleaning business. It's very simple.
                 <div className="links">
                   <a href="https://caseycreations.netlify.app/" target="_blank">
-                    Visit Website
+                    Website
                   </a>
                   <a
                     href="https://github.com/omarkha/ArtBridgeToBaghdad"
@@ -342,7 +342,7 @@ const HomePage = () => {
                 skills.
                 <div className="links">
                   <a href="https://amalsart.onrender.com/" target="_blank">
-                    Visit Website
+                    Website
                   </a>
                   <a href="https://github.com/omarkha/AmalsArt" target="_blank">
                     GitHub
@@ -365,7 +365,7 @@ const HomePage = () => {
                 of the things I liked.
                 <div className="links">
                   <a href="https://albarqacademy.onrender.com/" target="_blank">
-                    Visit Website
+                    Website
                   </a>
                   <a
                     href="https://github.com/omarkha/Baghdad-Institute"

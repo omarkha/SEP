@@ -16,7 +16,15 @@ code {
 }
 
 .container {
-  width: 100vw;
+  width: 100%;
   padding: 0 9vw;
   box-sizing: border-box;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+    padding: 0 3vw;
+    box-sizing: border-box;
+  }
 }
