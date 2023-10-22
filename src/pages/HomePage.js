@@ -380,7 +380,7 @@ const HomePage = () => {
             </div>
           </div>
           <div className="piece">
-            <h3>The Art Bridge - Ecommerce Website for Art</h3>
+            <h3>Al-Barq Academy - Online entrepreneurship Academy</h3>
             <div className="content">
               <a href="https://albarqacademy.onrender.com/" target="_blank">
                 {" "}
